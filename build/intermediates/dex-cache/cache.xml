@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\support-v4-19.1.0-4750243480f479f7504a69c3f78a2541d381ce4b.jar" />
+    </item>
+
+</items>
